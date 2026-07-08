@@ -87,3 +87,8 @@ Then open the notebooks in order:
 This repo shows hands-on PyTorch fundamentals: tensors, `nn.Module`, loss functions, optimizers, training loops, inference mode, and classification workflows. It supports the deeper applied AI/ML projects in my portfolio by showing the foundation behind model implementation.
 
 <!-- repository-refresh: 2026-06-29 | preserved-order-rank: 003/71 -->
+
+<!-- github-activity-refresh:start -->
+repo: PyTorch-Learning
+refreshed_at: 2026-07-08T06:40:45.993Z
+<!-- github-activity-refresh:end -->
